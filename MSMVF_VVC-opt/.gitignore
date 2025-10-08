@@ -1,0 +1,16 @@
+dec.yuv
+rec.yuv
+str.bin
+/build/
+/bin/
+/lib/
+deploy
+*.sdf
+*.suo
+.vs/
+.vscode/
+*.blg
+*.bbl
+*.pyc
+/out/
+/doc/_minted-software-manual/
